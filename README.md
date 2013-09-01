@@ -1,4 +1,4 @@
-Under The Crypt
+Under the Crypt
 ========
 
 Entry for [Js13kGames 2013](http://2013.js13kgames.com).
